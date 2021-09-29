@@ -1,8 +1,9 @@
 for i in range(51):
     if i % 3 == 0 and i % 5 == 0:
-        print("fizzbuzz")
+        print(i, " fizzbuzz")
     elif i % 3 == 0:
-        print("fizz")
+        print(i, " fizz")
     elif i % 5 == 0:
-        print("buzz")
-    print(i)
+        print(i, " buzz")
+    else:
+        print(i)
