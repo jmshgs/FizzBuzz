@@ -1,2 +1,2 @@
-# fizzbuzz
-My fizzbuzz program. Pretty simple, made in python.
+# PythonFizzBuzz
+My FizzBuzz program written in Python
