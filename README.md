@@ -1,2 +1,2 @@
 # PythonFizzBuzz
-My FizzBuzz program written in Python
+My FizzBuzz program written in Python.
