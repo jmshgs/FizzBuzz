@@ -1,2 +1,2 @@
 # FizzBuzz
-My FizzBuzz programs, written in Python, C#, and Java.
+some fizzbuzz programs when i was learning languages
